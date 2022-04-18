@@ -69,8 +69,22 @@ body {
     box-shadow: 0px 10px 40px #00000056;
     outline: none;
     box-sizing: border-box;
+    margin: 10px 0px;
 }
 
 .textfield > label {
-    
+    color:#f0ffffde;
+    margin-bottom: 10px;
+}
+
+.textfield > input::placeholder {
+    color: #f0ffff94;
+}
+
+.btn-login {
+    width: 38%;
+    padding: 16px 0px;
+    margin: 25px;
+    border: none;
+    border-radius: 8px;
 }
