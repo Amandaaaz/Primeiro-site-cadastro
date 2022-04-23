@@ -1,13 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400&family=Noto+Sans:wght@400;700&display=swap');
 
-body {
+main {
     margin: 0%;
     font-family: 'Noto Sans', sans-serif;
 }
 
-body *{
+main *{
     box-sizing: border-box;
 }
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+}
+
+ .header-register {
+    
+     background-color: #201b2c;
+     text-align: end;
+     justify-content: right;
+     color: #77ffc0;
+          
+ }
+
+ .header-register > h1 {
+  
+ }
 
 .main-login {
     width: 100vw;
@@ -55,7 +77,7 @@ body *{
     padding: 30px 35px;
     background: #2f2841;
     border-radius: 20px;
-    box-shadow: 0px 10px 40px #00000056;
+    box-shadow: 0px 10px 40px #00000056; 
 }
 
 .card-login > h1 {
