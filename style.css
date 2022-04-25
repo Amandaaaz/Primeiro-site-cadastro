@@ -14,22 +14,6 @@ main *{
     padding: 0;
 }
 
-body {
-    
-}
-
- .header-register {
-    
-     background-color: #201b2c;
-     text-align: end;
-     justify-content: right;
-     color: #77ffc0;
-          
- }
-
- .header-register > h1 {
-  
- }
 
 .main-login {
     width: 100vw;
