@@ -5,7 +5,7 @@ https://github.com/Amandaaaz/TelaLogin/assets/95643803/a5413cb2-7780-4241-9f34-f
 Tela de login responsiva com nome de usuário e senha.
 
 # Link do projeto:
-https://amandaaaz.github.io/Login/
+https://amandaaaz.github.io/TelaLogin/
 
 # Contato
 
