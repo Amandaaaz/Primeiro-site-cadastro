@@ -3,7 +3,7 @@ Tela de login responsiva com nome de usuário e senha.
 
 
 
-https://github.com/Amandaaaz/TelaLogin/assets/95643803/73feb3f8-b9b6-4a06-8eb1-874e245a3a39
+https://github.com/Amandaaaz/TelaLogin/assets/95643803/a5413cb2-7780-4241-9f34-f003f6c960d6
 
 
 
